@@ -9,6 +9,7 @@ require (
 
 require (
 	github.com/ebitengine/purego v0.3.1 // indirect
+	github.com/gorilla/websocket v1.5.0 // indirect
 	github.com/hajimehoshi/bitmapfont/v2 v2.2.3 // indirect
 	github.com/hajimehoshi/ebiten/v2 v2.5.0 // indirect
 	github.com/hajimehoshi/go-mp3 v0.3.4 // indirect
